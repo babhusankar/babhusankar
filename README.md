@@ -108,14 +108,6 @@ I'm a **Software Engineer at [Greenbotz](https://greenbotz.co)** with 2+ years o
 
 ---
 
-## 🏆 Highlights
-
-- ⬆️ Promoted twice for technical performance
-- 👥 Led a team of three developers on an enterprise SSO project
-- 📦 Delivered four enterprise projects in two years
-- 🧭 Mentored junior developers
-
----
 
 ## 📊 GitHub Stats
 
